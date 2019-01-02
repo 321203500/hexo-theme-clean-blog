@@ -1,8 +1,8 @@
 # Header
 menu:
   Home: /
-  Archives: /archives
-  Tags: /tags
+  Archives: /
+  Tags: /
   Categories: /categories
   Github:
     url: https://github.com/klugjo/hexo-theme-clean-blog
